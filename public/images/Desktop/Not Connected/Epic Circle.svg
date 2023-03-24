@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="479" height="479" viewBox="0 0 479 479">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5ac3ba"/>
+      <stop offset="0.743" stop-color="#865554"/>
+      <stop offset="1" stop-color="#5ac3ba"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5e2028"/>
+      <stop offset="1" stop-color="#776b6b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5ac3ba"/>
+      <stop offset="1" stop-color="#776b6b"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_4336" data-name="Ellipse 4336" cx="223" cy="223" r="223" transform="translate(-0.1 -0.3)" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Epic_Circle" data-name="Epic Circle" transform="translate(-539 -2966.8)">
+    <circle id="Ellipse_4335" data-name="Ellipse 4335" cx="239.5" cy="239.5" r="239.5" transform="translate(539 2966.8)" fill="url(#linear-gradient-2)"/>
+    <circle id="Ellipse_4338" data-name="Ellipse 4338" cx="239.5" cy="239.5" r="239.5" transform="translate(539 2966.8)" fill="url(#linear-gradient-3)"/>
+    <g id="Mask_Group_65" data-name="Mask Group 65" transform="translate(556.1 2984.1)" clip-path="url(#clip-path)">
+      <rect id="House_Gradient_1_2_NoiseMed" data-name="House Gradient 1_2_NoiseMed" width="691" height="519" transform="translate(-122.101 -36.3)" fill="#5ac3ba"/>
+    </g>
+  </g>
+</svg>

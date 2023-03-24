@@ -1,0 +1,33 @@
+@tailwind base;
+
+@font-face {
+  font-family: 'KC Durham Boxcar';
+  src: url('../public/fonts/KCDurhamBoxcarRegular.woff2') format('woff2'),
+    url('../public/fonts/KCDurhamBoxcarRegular.woff') format('woff'),
+    url('../public/fonts/KCDurhamBoxcarRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'KC Durham Boxcar';
+  src: url('../public/fonts/KCDurhamBoxcarRegular_1.woff2') format('woff2'),
+    url('../public/fonts/KCDurhamBoxcarRegular_1.woff') format('woff'),
+    url('../public/fonts/KCDurhamBoxcarRegular_1.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  html,
+  body {
+    @apply bg-dark;
+    @apply font-primary;
+    @apply text-white;
+  }
+}
+
+@tailwind components;
+@tailwind utilities;
